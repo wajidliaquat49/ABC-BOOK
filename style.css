@@ -1,0 +1,409 @@
+div {
+    background-color: rgb(31, 226, 31);
+
+    height: 100px;
+    font-size: 23px;
+    padding: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(14, 65, 14);
+    overflow-y: hidden;
+    overflow-x: hidden;
+
+    #A {
+        color: brown;
+    }
+
+    #B {
+        color: yellow;
+    }
+
+    #C {
+        color: chocolate;
+    }
+
+    .wh {
+        font-family: normal;
+        font-size: 15px;
+        letter-spacing: 5px;
+        font-weight: normal;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        text-decoration: none;
+
+    }
+}
+
+.TOP {
+    margin-left: 90%;
+    background-color: rgba(178, 94, 122, 0.791);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+    color: wheat;
+    position: fixed;
+    border-radius: 3px 25px 3px 25px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+*/ span {
+    color: rgb(14, 65, 14);
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.last {
+    display: block;
+    background-color: aqua;
+    color: brown;
+    height: 20px;
+    padding: 20px;
+    width: 1023 px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-decoration: underline;
+}
+
+.size {
+    height: 70px;
+    display: inline-block;
+}
+
+#butterfly {
+    height: 120px;
+    border-radius: 20px;
+}
+
+#cat {
+    height: 125px;
+    border-radius: 20px;
+}
+
+#cow {
+    height: 137px;
+    border-radius: 20px;
+}
+
+#height {
+    height: 150px;
+    width: 200px;
+    border-radius: 40px;
+    display: inline-block;
+}
+
+#doll {
+    height: 150px;
+    border-radius: 20px;
+}
+
+#eye {
+    height: 140px;
+    border-radius: 20px;
+}
+
+#flage {
+    border-radius: 20px;
+}
+
+#fan {
+    height: 195px;
+    border-radius: 20px;
+}
+
+#sunflower {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#goat {
+    height: 130px;
+    border-radius: 20px;
+    width: 190px;
+}
+
+#grass {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#hen {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#hammer {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#hat {
+    height: 130px;
+    border-radius: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#ice-cream {
+    height: 135px;
+    border-radius: 20px;
+    width: 170px;
+}
+
+#inkpot {
+    height: 120px;
+    border-radius: 20px;
+}
+
+#iron {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#jug {
+    height: 130px;
+    border-radius: 20px;
+    width: 170px;
+
+}
+
+#jacket {
+    height: 145px;
+    border-radius: 20px;
+}
+
+#kite {
+    height: 130px;
+    border-radius: 20px;
+
+}
+
+#kitten {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#key {
+    height: 120px;
+    border-radius: 20px;
+    width: 150px;
+}
+
+#lion {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#lamp {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#leave {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#Mango {
+    height: 130px;
+    border-radius: 20px;
+
+}
+
+#mug {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#monkey {
+    height: 130px;
+    border-radius: 20px;
+    width: 135px;
+}
+
+#Nest {
+    height: 130px;
+    border-radius: 20px;
+    width: 130px;
+}
+
+#Needle {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#Nurse {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#orange {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#ox {
+    height: 120px;
+    border-radius: 20px;
+}
+
+#onion {
+    height: 100px;
+    border-radius: 20px;
+}
+
+#peacock {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#pen {
+    height: 110px;
+    border-radius: 20px;
+}
+
+#queen {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#queue {
+    height: 120px;
+    border-radius: 20px;
+}
+
+#ranbow {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#ring {
+    height: 130px;
+    border-radius: 20px;
+}
+
+.wah {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#sun {
+    height: 150px;
+    border-radius: 20px;
+}
+
+.nice {
+    height: 130px;
+    border-radius: 20px;
+}
+
+.u {
+    height: 130px;
+    border-radius: 20px;
+}
+
+#van {
+    height: 120px;
+    border-radius: 20px;
+}
+
+.first {
+    height: 120px;
+
+}
+
+#dog {
+    height: 120px;
+    border-radius: 20px;
+}
+
+#eagle {
+    height: 120px;
+    border-radius: 20px;
+}
+
+#gate {
+    height: 120px;
+    border-radius: 20px;
+
+}
+
+#jeep {
+    height: 120px;
+    border-radius: 20px;
+}
+
+#parrot {
+    height: 120px;
+    border-radius: 20px;
+    width: 150px;
+}
+
+#quilt {
+    height: 120px;
+    border-radius: 20px;
+}
+
+#rose {
+    height: 120px;
+    border-radius: 20px;
+}
+
+#umbrella {
+    height: 120px;
+    border-radius: 20px;
+}
+
+#vegetable {
+    height: 120px;
+    border-radius: 20px;
+}
+
+#Violin {
+    height: 120px;
+    border-radius: 20px;
+}
+
+.ww {
+    height: 120px;
+    border-radius: 20px;
+}
+
+#form {
+    width: 1030px;
+    height: 380px;
+    background-color: rgb(204, 200, 200);
+
+    b {
+        color: blue;
+        font-family: normal;
+    }
+
+    input {
+        background-color: gray;
+        display: block;
+        width: 220px;
+        height: 30px;
+        font-family: serif;
+
+
+    }
+
+    ::placeholder {
+        color: black;
+    }
+
+    textarea {
+        background-color: gray;
+    }
+
+    button {
+        background-color: blue;
+        color: white;
+        width: 60px;
+        height: 30px;
+    }
+
+    #hello {
+        color: blue;
+        font-family: serif;
+    }
